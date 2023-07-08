@@ -2,7 +2,7 @@
 Node2Vec for graph embedding (self implementation)
 
 ## Node2Vec Algorithm
-<img src="https://github.com/DouziLBean/Node2Vec/assets/118800250/e1d64a98-3152-4af9-aa7f-f22fb728405f" alt="Node2Vec algorithm" width="300" height="300">
+<img src="https://github.com/DouziLBean/Node2Vec/assets/118800250/e1d64a98-3152-4af9-aa7f-f22fb728405f" alt="Node2Vec algorithm" width="500" height="500">
 
 Reference:
 
