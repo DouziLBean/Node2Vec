@@ -4,7 +4,9 @@ node2vec for graph embedding (self implementation)
 
 
 The random walk generation process makes use of the alias sampling method, for more details see: 
+
 https://lips.cs.princeton.edu/the-alias-method-efficient-sampling-with-many-discrete-outcomes/
+
 (The Alias Method: Efficient Sampling with Many Discrete Outcomes)
 
 The node embedding generation process makes use of the word2vec method in NLP, for more details see:
